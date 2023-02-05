@@ -1,0 +1,5 @@
+Install node modules -- 
+
+npm install -g node-modules
+
+and paste the downloaded folder in the project folder 
